@@ -25,4 +25,5 @@ Functionalitati minime:
     - Aplicația are și un sistem de permisiuni. Doar un membru al juriului poate să adauge/modifice note și doar notele lui pe o perioadă limitată de timp
 
 Tipul aplicatiei:
+
     Aplicatia va fi de tip Single Page Application, disponibila pe diferite platforme.
